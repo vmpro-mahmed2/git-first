@@ -1,1 +1,7 @@
 new branch file 0000
+New branch file only show up in new branch.
+
+
+
+
+goodbye
